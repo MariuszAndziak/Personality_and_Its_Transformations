@@ -24,8 +24,8 @@
 > Notebook 01 · Get captions
 <img src="images/01.png" alt="Alt text" title="Optional title">
 
-> Notebook 02 · Prepare sentences
+> Notebook 02 · Split and Prepare sentences
 <img src="images/02.png" alt="Alt text" title="Optional title">
 
-> Notebook 03 · Create embeddings
+> Notebook 03 · Create embeddings, reduce dimenstions and make clusters
 <img src="images/03.png" alt="Alt text" title="Optional title">
