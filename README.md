@@ -20,6 +20,7 @@
     <a href="https://github.com/MariuszAndziak/Personality_and_Its_Transformations">Link 3</a>
   </p>
 </div>
+
 > Notebook 01 · Get captions
 <img src="images/01.png" alt="Alt text" title="Optional title">
 
