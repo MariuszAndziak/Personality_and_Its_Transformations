@@ -21,11 +21,11 @@
   </p>
 </div>
 
-# Notebook 01 · Get captions
-<img src="images/01.png" alt="Alt text" title="Optional title">
+## Notebook 01 · Get captions
+<img src="images/01.png" alt="Alt text" title="Get captions" src = '01_get_captions.ipynb>
 
-> Notebook 02 · Split and Prepare sentences
-<img src="images/02.png" alt="Alt text" title="Optional title">
+## Notebook 02 · Split and Prepare sentences
+<img src="images/02.png" alt="Alt text" title="Sentence preparation" src = '02_sentence_preparation.ipynb>
 
-> Notebook 03 · Create embeddings, reduce dimenstions and make clusters
-<img src="images/03.png" alt="Alt text" title="Optional title">
+## Notebook 03 · Create embeddings, reduce dimenstions and make clusters
+<img src="images/03.png" alt="Alt text" title="Simple model embeddings" src = '03_embeddings.ipynb>
