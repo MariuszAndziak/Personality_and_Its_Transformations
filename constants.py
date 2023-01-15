@@ -10,5 +10,5 @@ FINAL_CAPTIONS_FILE_NAME = 'final_captions.txt'
 # Embeddings
 SENT_LENGTH = 512
 MODELS_FOLDER = 'models'
-SAMPLE_UMAP_MODEL_NAME = 'umap_embeddings'
+SAMPLE_EMBEDDINGS_MODEL_NAME = 'clean_embeddings'
 
