@@ -21,7 +21,7 @@
   </p>
 </div>
 
-> Notebook 01 · Get captions
+# Notebook 01 · Get captions
 <img src="images/01.png" alt="Alt text" title="Optional title">
 
 > Notebook 02 · Split and Prepare sentences
