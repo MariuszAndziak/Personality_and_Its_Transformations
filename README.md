@@ -21,16 +21,19 @@
   </p>
 </div>
 
-> Notebook 01 · Get captions
+## Notebook 01 · Get captions
 <a href="01_get_captions.ipynb">
   <img src="images/03.png" alt="Alt text" title="Optional title">
 </a>
 
-
+---------------------------------------
+## Notebook 02 · Sentence preparation
 <a href="02_sentence_preparation.ipynb">
   <img src="images/02.png" alt="Alt text" title="Optional title">
 </a>
 
+---------------------------------------
+## Notebook 03 · Example model embeddings
 <a href="03_embeddings.ipynb">
   <img src="images/03.png" alt="Alt text" title="Optional title">
 </a>
