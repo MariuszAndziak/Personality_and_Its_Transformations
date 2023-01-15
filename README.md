@@ -22,7 +22,7 @@
 </div>
 
 ## Notebook 01 · Get captions
-<img src="images/01.png" alt="Alt text" title="Get captions" src = '01_get_captions.ipynb>
+[<img alt="alt_text" src="images/01.PNG" />](01_get_captions.ipynb)
 
 ## Notebook 02 · Split and Prepare sentences
 <img src="images/02.png" alt="Alt text" title="Sentence preparation" src = '02_sentence_preparation.ipynb>
