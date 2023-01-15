@@ -23,7 +23,7 @@
 
 ## Notebook 01 · Get captions
 <a href="01_get_captions.ipynb">
-  <img src="images/03.png" alt="Alt text" title="Optional title">
+  <img src="images/01.png" alt="Alt text" title="Optional title">
 </a>
 
 ---------------------------------------
