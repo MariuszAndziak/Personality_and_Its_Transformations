@@ -15,3 +15,6 @@ SAMPLE_EMBEDDINGS_MODEL_NAME = 'clean_embeddings'
 # Topics
 CLUSTERED_TOPICS_DATAFRAME_NAME = 'clustered_topics'
 
+# Charts
+EMBEDDING_CHART_NAME = '23_embeddings_chart'
+
