@@ -12,3 +12,6 @@ SENT_LENGTH = 512
 MODELS_FOLDER = 'models'
 SAMPLE_EMBEDDINGS_MODEL_NAME = 'clean_embeddings'
 
+# Topics
+CLUSTERED_TOPICS_DATAFRAME_NAME = 'clustered_topics'
+
