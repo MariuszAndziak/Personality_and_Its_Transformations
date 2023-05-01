@@ -1,7 +1,7 @@
 '''This file contains constant values for the project'''
 
 # Captions
-PLAYLIST = 'https://www.youtube.com/playlist?list=PL22J3VaeABQAOhH1CLMNnMl2R-O1abW1T'
+PLAYLIST = 'https://www.youtube.com/watch?v=UGLsnu5RLe8&list=PLYNhvBtnVUK4aUJ6onJbylGBeeqlJUpN1'
 
 OUTPUT_FOLDER = 'outputs'
 CAPTIONS_FILE_NAME = 'captions.txt'

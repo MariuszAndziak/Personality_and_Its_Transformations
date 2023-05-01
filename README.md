@@ -1,39 +1,36 @@
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/MariuszAndziak/Personality_and_Its_Transformations">
-    <img src="images/logo.png" alt="Logo" width="128" height="128">
-  </a>
+## PERSONALITY AND ITS TRANSFORMATIONS
+[![Generic badge](https://img.shields.io/badge/languge-english-blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/uses-openai-green.svg)](https://openai.com/)
+[![Generic badge](https://img.shields.io/badge/uses-langchain-red.svg)](https://github.com/hwchase17/langchain/tree/master)
+[![Generic badge](https://img.shields.io/badge/uses-pandas-orange.svg)](https://pandas.pydata.org/)
+[![Generic badge](https://img.shields.io/badge/uses-umap-white.svg)](https://github.com/lmcinnes/umap)
+[![Generic badge](https://img.shields.io/badge/uses-hdbscan-white.svg)](https://hdbscan.readthedocs.io/en/latest/index.html)
 
-  <h3 align="center">Personality and Its Transformations</h3>
+> Professor Jordan Peterson's course on Personality and Its Transformations is an in-depth exploration of the nature of human personality, drawing from a diverse range of fields including psychology, neuroscience, and philosophy. The course examines how personality is shaped by both biology and environment, and how individuals can take practical steps to transform their own personalities. Through engaging lectures and thought-provoking discussions, students are challenged to question their assumptions about themselves and the world around them, and to develop a deeper understanding of what it means to be human.
 
-  <p align="center">
-    Summary and knowledge destilation of prof. Jordan Peterson's YouTube lectures
-    <br />
-    <a href="https://github.com/MariuszAndziak/Personality_and_Its_Transformations"><strong>Main Link»</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/MariuszAndziak/Personality_and_Its_Transformations">Link 1</a>
-    ·
-    <a href="https://github.com/MariuszAndziak/Personality_and_Its_Transformations">Link 2</a>
-    ·
-    <a href="https://github.com/MariuszAndziak/Personality_and_Its_Transformations">Link 3</a>
-  </p>
-</div>
+> The project focuses on [prof. Jordan Peterson's](https://pl.wikipedia.org/wiki/Jordan_Peterson) course [Personality and its Transformations](https://www.jordanbpeterson.com/classes/personality-and-its-transformations/).which lectures in video form can be accessed on YouTube. The course was taught in the past for multiple years:
+2014 - https://www.youtube.com/watch?v=_0xBOMWJkgM&list=PLYNhvBtnVUK4mh5DYkwoekMunoVPRwXmP
+2015 - https://www.youtube.com/watch?v=ZKpqpBRVr8Y&list=PLYNhvBtnVUK6Y4D_HWApBC9ZpaES4eobl
+2016 - https://www.youtube.com/watch?v=UGLsnu5RLe8&list=PLYNhvBtnVUK4aUJ6onJbylGBeeqlJUpN1
+2017 - https://www.youtube.com/watch?v=kYYJlNbV1OM&list=PLuqhl4iqeAZZA0YM-mHAV77VE6ZQjDRGr
+2014 - 2017 - https://www.youtube.com/watch?v=_0xBOMWJkgM&list=PL22J3VaeABQBlN8DUor7SKWCwSghcqlY5
 
-## Notebook 01 · Get captions
-<a href="01_get_captions.ipynb">
-  <img src="images/01.png" alt="Alt text" title="Optional title">
-</a>
+The project focuses on the 2016 version of the lectures.
 
----------------------------------------
-## Notebook 02 · Sentence preparation
-<a href="02_sentence_preparation.ipynb">
-  <img src="images/02.png" alt="Alt text" title="Optional title">
-</a>
+## The problem
+TBA
 
----------------------------------------
-## Notebook 03 · Example model embeddings
-<a href="03_embeddings.ipynb">
-  <img src="images/03.png" alt="Alt text" title="Optional title">
-</a>
+## Project outline
+TBA
+1.	TBA
+2.	TBA
+
+## Project schema
+The schema of the outline is presented below
+
+
+### Notebook 5
+Building a summary for each found cluster
+<img src="images/notebook05.png">
+
+
