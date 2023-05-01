@@ -20,13 +20,13 @@ The project focuses on [prof. Jordan Peterson's](https://pl.wikipedia.org/wiki/J
 
 2014 - 2017 - https://www.youtube.com/watch?v=_0xBOMWJkgM&list=PL22J3VaeABQBlN8DUor7SKWCwSghcqlY5
 
-The project is based on the 2016 version of the lectures.
+The project is based on the 2016 version of the lectures. More about prof. Peterson at https://www.jordanbpeterson.com/
 
 ## The problem
-TBA
+Lecture material can be unstructured and unorganised. The lecturer following their train of thought can often digress from the main topic and implement side comments that can play an unstructured role in the overall lecture plan.
+This project aims to make educational material more accessible by breaking down lecture texts into easily digestible pieces of information. Through a step-by-step approach, users can gradually build up their understanding of complex concepts without feeling overwhelmed. The project seeks to enhance the learning experience for students and provide them with a more structured way to engage with lecture material.
 
 ## Project outline
-TBA
 1.	TBA
 2.	TBA
 
