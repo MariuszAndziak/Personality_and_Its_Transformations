@@ -20,7 +20,7 @@ The project focuses on [prof. Jordan Peterson's](https://pl.wikipedia.org/wiki/J
 
 2014 - 2017 - https://www.youtube.com/watch?v=_0xBOMWJkgM&list=PL22J3VaeABQBlN8DUor7SKWCwSghcqlY5
 
-The project is based on the 2016 version of the lectures. More about prof. Peterson at https://www.jordanbpeterson.com/
+The project is based on the 2016 version of the lectures. More about prof. Peterson at this [link](https://www.jordanbpeterson.com/).
 
 ## The problem
 Lecture material can be unstructured and unorganised. The lecturer following their train of thought can often digress from the main topic and implement side comments that can play an unstructured role in the overall lecture plan.
