@@ -8,14 +8,19 @@
 
 > Professor Jordan Peterson's course on Personality and Its Transformations is an in-depth exploration of the nature of human personality, drawing from a diverse range of fields including psychology, neuroscience, and philosophy. The course examines how personality is shaped by both biology and environment, and how individuals can take practical steps to transform their own personalities. Through engaging lectures and thought-provoking discussions, students are challenged to question their assumptions about themselves and the world around them, and to develop a deeper understanding of what it means to be human.
 
-> The project focuses on [prof. Jordan Peterson's](https://pl.wikipedia.org/wiki/Jordan_Peterson) course [Personality and its Transformations](https://www.jordanbpeterson.com/classes/personality-and-its-transformations/).which lectures in video form can be accessed on YouTube. The course was taught in the past for multiple years:
+The project focuses on [prof. Jordan Peterson's](https://pl.wikipedia.org/wiki/Jordan_Peterson) course [Personality and its Transformations](https://www.jordanbpeterson.com/classes/personality-and-its-transformations/).which lectures in video form can be accessed on YouTube. The course was taught in the past for multiple years:
+
 2014 - https://www.youtube.com/watch?v=_0xBOMWJkgM&list=PLYNhvBtnVUK4mh5DYkwoekMunoVPRwXmP
+
 2015 - https://www.youtube.com/watch?v=ZKpqpBRVr8Y&list=PLYNhvBtnVUK6Y4D_HWApBC9ZpaES4eobl
+
 2016 - https://www.youtube.com/watch?v=UGLsnu5RLe8&list=PLYNhvBtnVUK4aUJ6onJbylGBeeqlJUpN1
+
 2017 - https://www.youtube.com/watch?v=kYYJlNbV1OM&list=PLuqhl4iqeAZZA0YM-mHAV77VE6ZQjDRGr
+
 2014 - 2017 - https://www.youtube.com/watch?v=_0xBOMWJkgM&list=PL22J3VaeABQBlN8DUor7SKWCwSghcqlY5
 
-The project focuses on the 2016 version of the lectures.
+The project is based on the 2016 version of the lectures.
 
 ## The problem
 TBA
