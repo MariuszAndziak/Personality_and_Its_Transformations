@@ -27,14 +27,22 @@ Lecture material can be unstructured and unorganised. The lecturer following the
 This project aims to make educational material more accessible by breaking down lecture texts into easily digestible pieces of information. Through a step-by-step approach, users can gradually build up their understanding of complex concepts without feeling overwhelmed. The project seeks to enhance the learning experience for students and provide them with a more structured way to engage with lecture material.
 
 ## Project outline
-1.	TBA
-2.	TBA
+1. Download and preprocess Youtube Captions.
+2. Prepare sentence embeddings.
+3. Reduce dimensions and cluster vector representations.
+4. Summarize each cluster using external tools (LangChain + OpenAI GPT).
+5. Produce triples for knowledge graph.
 
 ## Project schema
 The schema of the outline is presented below
 
+### Notebook 1 and 2
+TBA
 
-### Notebook 5
+### Notebook 3 and 4
+TBA
+
+### Notebook 5 and 6
 Building a summary for each found cluster
 <img src="images/notebook05.png">
 
